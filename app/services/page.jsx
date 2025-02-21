@@ -7,25 +7,25 @@ const services = [
   {
     num:'01',
     title: 'Web Development',
-    description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus accusamus doloribus fugiat corrupti debitis aspernatur dolore minima, non voluptate laborum sit officia, cupiditate nobis adipisci',
+    description: 'I build responsive and user-friendly websites, focusing on clean design, performance, and seamless functionality, tailored to your business needs.',
     href:""
   },
   {
     num:'02',
     title: 'UI/UX Design',
-    description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus accusamus doloribus fugiat corrupti debitis aspernatur dolore minima, non voluptate laborum sit officia, cupiditate nobis adipisci',
+    description: 'I create intuitive, visually appealing interfaces that enhance user experience, ensuring designs are both functional and engaging for optimal usability.',
     href:""
   },
   {
     num:'03',
     title: 'Logo Design',
-    description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus accusamus doloribus fugiat corrupti debitis aspernatur dolore minima, non voluptate laborum sit officia, cupiditate nobis adipisci',
+    description: 'I craft unique and memorable logos that represent your brands identity, helping you stand out and make a lasting impression.',
     href:""
   },
   {
     num:'04',
     title: 'SEO',
-    description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus accusamus doloribus fugiat corrupti debitis aspernatur dolore minima, non voluptate laborum sit officia, cupiditate nobis adipisci',
+    description: 'I optimize websites to improve search engine rankings, driving more organic traffic and increasing visibility for your business.',
     href:""
   },
 ];

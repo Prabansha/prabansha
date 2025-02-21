@@ -14,18 +14,18 @@ const Home = () => {
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Software Development</span>
+            <span className="text-xl">Software Developer</span>
             <h1 className="h1">
-              Hello We're <br /><span className="text-accent">WIDESPREAD BIZ</span>
+              Hello I'm <br /><span className="text-accent">Prabansha Dissanayake</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta officiis cum eaque porro praesentium? Nulla, dicta itaque! Ad aliquid, deserunt dolorem dolore nostrum repellendus fugiat porro facere, fuga dolores corporis?
+              I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
-                <span>View Portfolio</span>
-                {/* <FiRewind/> */}
+                <span>download cv</span>
+                <FiDownload/>
               </Button>
               <div className="mb-8 xl:mb-0">
                 <Social 

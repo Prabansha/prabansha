@@ -25,7 +25,7 @@ const Photo = () => {
                 absolute"
                 >
                 <Image 
-                    src="/assets/logo-white.png" 
+                    src="/assets/image.png" 
                     priority 
                     quality={100} 
                     fill 

@@ -10,7 +10,7 @@ const Header = () => {
         {/* logo */}
         <Link href="/">
             <h1 className="text-4xl font-semibold">
-                WIDESPREAD BIZ <span className="text-accent">.</span>
+                Prabansha<span className="text-accent">.</span>
             </h1>
         </Link>
 
@@ -20,7 +20,7 @@ const Header = () => {
         <div className="hidden xl:flex item-center gap-8">
             <Nav/>
             <Link href="/contact">
-                <Button>Contact us</Button>
+                <Button>Hire me</Button>
             </Link>
         </div>
 
